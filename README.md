@@ -8,10 +8,9 @@
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
-I’m a **Cybersecurity enthusiast and Full Stack Developer** with a strong interest in **web application security**.  
-I enjoy building applications, breaking them ethically, and understanding how to secure them against real-world attacks.
+#### I’m a **Cybersecurity enthusiast and Full Stack Developer** with a strong interest in **web application security**.  I enjoy building applications, breaking them ethically, and understanding how to secure them against real-world attacks.
 ---
 
 ## 🎯 Goals
