@@ -50,7 +50,7 @@ I enjoy building applications, breaking them ethically, and understanding how to
 
 ## 📫 Connect With Me
 
-- 📝 Medium: )*[diyabehl2004](https://medium.com/@diyabehl2004)*
+- 📝 Medium: *[diyabehl2004](https://medium.com/@diyabehl2004)*
 - 💼 LinkedIn: *[Diyabehl](https://www.linkedin.com/in/diya-behl-31529026a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)*
 - 🐙 GitHub: *You’re already here 😄*
 
