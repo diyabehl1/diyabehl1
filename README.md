@@ -1,14 +1,9 @@
 
-<!--
-**diyabehl1/diyabehl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-https://www.linkedin.com/in/diya-behl-31529026a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 # 👋 Hi, I’m Diya
 
 🔐 Aspiring Cybersecurity Analyst | Ethical Hacking Enthusiast  
 💻 Full Stack Developer | Web Security • CTF Player  
-📍 India
 
 ---
 
@@ -16,12 +11,6 @@ https://www.linkedin.com/in/diya-behl-31529026a?utm_source=share&utm_campaign=sh
 
 I’m a **Cybersecurity enthusiast and Full Stack Developer** with a strong interest in **web application security**.  
 I enjoy building applications, breaking them ethically, and understanding how to secure them against real-world attacks.
-
-Currently exploring:
-- Web exploitation & secure coding
-- Linux privilege escalation
-- File upload & authentication vulnerabilities
-- Secure full stack application development
 
 ---
 
@@ -42,22 +31,6 @@ Currently exploring:
 - REST APIs
 - Authentication & Authorization
 
-### ⚙️ Other
-- Git & GitHub
-- Bash scripting
-- Basic Python
-- Linux (Kali, Ubuntu)
-
----
-
-## 🧪 Practice Platforms
-
-- 🧠 Root-Me
-- 🧩 TryHackMe
-- 🧪 Hack The Box (learning)
-
----
-
 ## 📚 Writeups & Projects
 
 - ✍️ CTF Walkthroughs & Security Writeups
@@ -77,13 +50,13 @@ Currently exploring:
 
 ## 📫 Connect With Me
 
-- 📝 Medium: *your-link-here*
-- 💼 LinkedIn: *your-link-here*
+- 📝 Medium: )*[diyabehl2004](https://medium.com/@diyabehl2004)*
+- 💼 LinkedIn: *[Diyabehl](https://www.linkedin.com/in/diya-behl-31529026a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)*
 - 🐙 GitHub: *You’re already here 😄*
 
 ---
 
-⭐ *Build. Break. Secure. Repeat.*
+
 
 
 
